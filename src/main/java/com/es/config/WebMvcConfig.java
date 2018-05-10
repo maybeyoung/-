@@ -1,4 +1,4 @@
-package com.es.WebMvcConfig;
+package com.es.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Value;
