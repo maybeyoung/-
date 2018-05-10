@@ -18,6 +18,6 @@ public class UserRepositoryTest extends SouwuApplicationTests {
     @Test
     public void testFindOne() {
         User user = userRepository.findOne(1L);
-        Assert.assertEquals("waliwali", user.getName());
+        Assert.assertEquals("wali", user.getName());
     }
 }
